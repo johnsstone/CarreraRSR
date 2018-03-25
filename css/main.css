@@ -1,12 +1,13 @@
 /* CSS Styling */
 
-img {align : center;
-
-}
 
 h1 {text-align : center; 
-	style : bold
+	style : bold;
+	color : #4c7b95;
 
 }
 
+footer {
+  background-color: #4c7b95;
+}
 
