@@ -9,7 +9,7 @@
     window.location.href = link;
     //console.log(link);
     alert( "Thanks for emailing us!!" );
+   
 }
-
 
 

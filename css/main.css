@@ -3,26 +3,27 @@
 /* Media Query */
 @media screen
 
-head { 
-  width: 400px
+div { 
+  width: 600px;
   height: 75px;
   margin: 30px;
   padding: 15px;
   background-color: #4c7b95;
-  border : #4c7b95
+  border : black 
   width : medium
 	}
 
 
 h1 {text-align : center; 
 	style : bold;
-	color : #4c7b95;
-	/*text-shadow: 2px 2px 1px; */
+	color : black;
+	
 
 }
 
+
 footer {
-  width: 400px
+  width: 400px;
   height: 75px;
   margin: 30px;
   padding: 15px;
