@@ -8,7 +8,7 @@
              +'&body='+document.getElementById('email_address').value;
     window.location.href = link;
     //console.log(link);
-    alert( "Thanks for emailing us!!" );
+   alert( "Thanks for emailing us!!" );
    
 }
 
